@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader-complete.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

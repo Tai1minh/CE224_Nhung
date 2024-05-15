@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Nam_3/CE233_NhungKhongDay/Nhung_Project/servo_library/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
